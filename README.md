@@ -22,5 +22,5 @@ Download/clone this project and double click the workflow file to install.
 	![](https://raw.github.com/yea107/alfred-bible-com/master/screenshots/variables_setting.jpg)
 	- For setting bible version, please see what's the version index of your favorite version on [bible.com](http://bible.com).
 	![](https://raw.github.com/yea107/alfred-bible-com/master/screenshots/bible_version_idx.jpg)
-2. It's recommanded that disable preview using 'shift' key beaucse some input method use 'shift' to switch languages.
+2. I recommend disable 'shift' key to preview beaucse some input methods use 'shift' key to switch languages.
 	![](https://raw.github.com/yea107/alfred-bible-com/master/screenshots/change_shift_setting.jpg)
