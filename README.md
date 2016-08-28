@@ -21,5 +21,6 @@ Download/clone this project and double click the workflow file to install.
 1. Before Using this workflow, you must edit the variables of Bible_tools module in scriptfilter for language setting.
 	![](https://raw.github.com/yea107/alfred-bible-com/master/screenshots/variables_setting.jpg)
 	- For setting bible version, please see what's the version index of your favorite version on [bible.com](http://bible.com).
-	![](https://raw.github.com/yea107/alfred-bible-com/master/screenshots/bible_version_index.jpg)
-2. It's recommanded that disable preview using 'shift' key beaucse some . You can
+	![](https://raw.github.com/yea107/alfred-bible-com/master/screenshots/bible_version_idx.jpg)
+2. It's recommanded that disable preview using 'shift' key beaucse some input method use 'shift' to switch languages.
+	![](https://raw.github.com/yea107/alfred-bible-com/master/screenshots/change_shift_setting.jpg)
